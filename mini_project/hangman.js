@@ -44,3 +44,4 @@ function game() {
   alert("정답은 " + randomWords);
   document.getElementById("hangman").innerHTML = "!행!!맨!";
 }
+//
